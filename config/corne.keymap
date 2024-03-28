@@ -22,7 +22,7 @@
             display-name = "Base";
             bindings = <
 &kp TAB    &kp Q  &kp W  &kp E     &kp R        &kp T          &kp Y      &kp U        &kp I        &kp O         &kp P     &kp BSPC
-&kp LCTRL  &kp A  &kp S  &kp D     &kp F        &kp G          &kp H      &kp J        &kp K        &kp L         &kp SEMI  &kp LC(RET)
+&kp LCTRL  &kp A  &kp S  &kp D     &kp F        &kp G          &kp H      &kp J        &kp K        &kp L         &kp SEMI  &kp RET
 &kp LSHFT  &kp Z  &kp X  &kp C     &kp V        &kp B          &kp N      &kp M        &lt 4 COMMA  &lt 4 PERIOD  &kp FSLH  &kp GRAVE
                          &kp LGUI  &lt 1 SPACE  &lt 3 SPACE    &lt 3 RET  &lt 2 SPACE  &kp RALT
             >;
